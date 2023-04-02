@@ -1,0 +1,5 @@
+
+__pycache__
+backend/.ipynb_checkpoints
+backend/checkers-flask
+backend/checkers.ipynb
